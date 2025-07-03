@@ -7,6 +7,7 @@ An anagram is a string that contains the exact same characters as another string
 
 https://neetcode.io/problems/anagram-groups
 '''
+
 from collections import defaultdict
 from typing import List
 
