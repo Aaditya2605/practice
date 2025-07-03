@@ -1,6 +1,6 @@
 '''
 NeetCode 150
-1. Valid Anagram
+2. Valid Anagram
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 https://neetcode.io/problems/is-anagram
